@@ -8,7 +8,7 @@ Exploring !
 
 * 🌍  I'm based in Kathmandu, Nepal
 * 🖥️  See my portfolio at [My Portfolio](http://kareena.com.np)
-* ✉️  You can contact me at [kareenaofficals@gmail.com](mailto:kareenaofficals@gmail.com)
+* ✉️  You can contact me at [[kareenaofficals@gmail.com](mailto:kareenaofficals@gmail.com)](https://www.linkedin.com/in/kareena387/)
 * 🧠  I'm learning MERN Stack
 * 🤝  I'm open to collaborating on Web Development Projects
 * ⚡  You know what I mean.
