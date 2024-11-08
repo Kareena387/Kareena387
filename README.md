@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kareena387&label=Profile%20views&color=0e75b6&style=flat" alt="kareena387" /> </p>
 
-- 🌱 I’m currently exploring **MERN stack along Data Science**
+- 🌱 I’m currently building **Mentorship platform**
 
 - 📫 How to reach me **kareena.management@gmail.com**
 
